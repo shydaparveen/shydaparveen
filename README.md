@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I’m an IT graduate 💁‍♂️ with a keen interest in Data Analytics 👨‍💻 and Software Engineering! While IT introduced me to the world of systems and coding, I realized the excitement of diving deep into data and creating seamless digital experiences. From analyzing data points to crafting websites with HTML, CSS, and JavaScript, I love switching between uncovering insights and building dynamic user interfaces. It’s a whole new adventure in the digital world!**
 
-<h1 align="center">Hi 👋, I'm Shyda Parveen</h1>
+
 <h3 align="center">Data Analyst | Data Science Enthusiast | Machine Learning</h3>
 
 <p align="center">
